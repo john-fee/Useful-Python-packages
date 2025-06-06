@@ -1,7 +1,7 @@
 Useful Python packages
 ================
 John Fee
-2025-01-25
+2025-06-06
 
 # Creating documents
 
@@ -21,10 +21,10 @@ John Fee
 
 - [plotnine](https://plotnine.org/)
   - ggplot2 port to Python
+- [altair](https://altair-viz.github.io/index.html)
+  - Promising visualization package \# Coding/Productivity
 
-# Coding/Productivity
-
-## Dev tools
+# Dev tools
 
 - [pytest](https://docs.pytest.org/en/stable/)
   - Widely used testing package
@@ -33,6 +33,16 @@ John Fee
 - [jupytext](https://jupytext.readthedocs.io/en/latest/)
   - Useful to convert Jupyter notebooks into something that can be
     version controlled
+- [marimo](https://marimo.io/)
+  - Interesting alternative to Jupyter notebooks - git friendly!
+- [rich](https://rich.readthedocs.io/en/stable/introduction.html)
+  - Package for displaying *rich* text in the terminal. Also helpful for
+    debugging!
+- [cyclopts](https://github.com/BrianPugh/cyclopts)
+  - Promising CLI package
+- [pdoc](https://pdoc.dev/docs/pdoc.html) and
+  [MkDocs](https://www.mkdocs.org/) are package documentation generators
+  worth trying out
 
 Also some generally helpful links for Python packaging:
 
